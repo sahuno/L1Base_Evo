@@ -1,0 +1,9 @@
+name: l1base
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - mafft
+  - ca-certificates
+  - openssl
+prefix: $HOME/miniforge3/envs/l1base
